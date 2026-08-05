@@ -98,10 +98,17 @@
     <string name="dolby_geq_preset_name_exists">Nazwa presetu już istnieje!</string>
     <string name="dolby_geq_preset_name_too_long">Nazwa presetu jest za długa!</string>
     <string name="band_mode_mismatch">Niezgodność trybu pasm</string>
+    <string name="interactive_frequency_response">Interaktywna charakterystyka częstotliwościowa</string>
+    <string name="interactive_frequency_response_summary">Przeciągnij punkty kontrolne, aby dostosować wzmocnienie (±15 dB)</string>
     <string name="frequency_response">Charakterystyka częstotliwościowa</string>
     <string name="locked">Zablokowane</string>
     <string name="band_configuration">Konfiguracja pasm</string>
     <string name="choose_equalizer_precision">Wybierz precyzję korektora: więcej pasm = dokładniejsza kontrola</string>
+    <string name="dolby_geq_view">Widok korektora</string>
+    <string name="dolby_geq_view_curve">Krzywa</string>
+    <string name="dolby_geq_view_sliders">Suwaki</string>
+    <string name="dolby_geq_b_bands">Pasma</string>
+    <string name="dolby_geq_l_bands">pasma</string>
 
     <!-- Dolby intelligent EQ -->
     <string name="dolby_ieq">Inteligentny korektor</string>
